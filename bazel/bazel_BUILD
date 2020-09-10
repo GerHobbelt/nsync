@@ -38,7 +38,7 @@ config_setting(
 
 config_setting(
     name = "gcc_linux_x86_64_2",
-    values = {"cpu": "haswell"},
+    values = {"cpu": "westmere"},
 )
 
 config_setting(
